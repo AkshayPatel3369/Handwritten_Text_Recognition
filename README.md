@@ -1,0 +1,2 @@
+# Handwritten_Text_Recognition
+In this project I am going to use IAM IAM Handwriting Database. The IAM Handwriting Database contains forms of handwritten English text which can be used to train and test handwritten text recognizers and to perform writer identification and verification experiments. Before training our models with the dataset. we have applied various preprocessing and data augmentation techniques on our dataset in order to make our data more compatible with the models and to make our dataset more robust to real life situations.
